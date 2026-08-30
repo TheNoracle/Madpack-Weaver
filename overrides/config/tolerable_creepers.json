@@ -3,6 +3,6 @@
   "creepieExplosionRadius": 1,
   "sporeCountDayBase": 1,
   "sporeCountDayRandom": 2,
-  "sporeCountNightBase": 3,
-  "sporeCountNightRandom": 4
+  "sporeCountNightBase": 2,
+  "sporeCountNightRandom": 3
 }

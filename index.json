@@ -690,7 +690,7 @@
     },
     {
       "path": "overrides/config/Bits and Balance/gameplay.toml",
-      "sha1": "588d70ee4687d3eff0bdc2494935a1d98ac9b2ec"
+      "sha1": "72e8c660936087a51a9e3d5bca68c6623554438c"
     },
     {
       "path": "overrides/config/Bits and Balance/worldgen.toml",
@@ -1810,7 +1810,7 @@
     },
     {
       "path": "overrides/config/tolerable_creepers.json",
-      "sha1": "8d614ab149336c5d0af60d8d39bdfb311b8bdfb4"
+      "sha1": "3f5dea3d5b4e7b3b16b0906cf2db47a6c2cbafa1"
     },
     {
       "path": "overrides/config/transition.json",
@@ -1827,10 +1827,6 @@
     {
       "path": "overrides/config/trender.json",
       "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0"
-    },
-    {
-      "path": "overrides/config/true_impact-server.toml",
-      "sha1": "e7e3abcac16bfd97f4927a93f631e9bae27aa79c"
     },
     {
       "path": "overrides/config/tt20/block_entity_mask.json",
@@ -2398,7 +2394,7 @@
     },
     {
       "path": "overrides/kubejs/data/Madpack Data.zip",
-      "sha1": "87fb27f17d0851d33e922f1040a2189c4d195444"
+      "sha1": "de56a0fc158fbaf133104c2583998c825604a367"
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/recipes.js",

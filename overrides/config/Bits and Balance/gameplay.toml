@@ -98,7 +98,7 @@
 	#Depth Scaling Enemies
 	[balance.depthScalingEnemies]
 		#Enable depth-based scaling for Zombies and Skeletons in the Overworld.
-		enabled = true
+		enabled = false
 		#Restrict depth scaling to the Overworld only.
 		overworldOnly = true
 		#If false, disables the surface tier from affecting spawns (no gear/weapon changes for mobs in the surface band).
