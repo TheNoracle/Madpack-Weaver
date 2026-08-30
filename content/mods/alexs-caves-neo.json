@@ -1,0 +1,22 @@
+{
+  "name": "Alex's Caves Neo",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1613404",
+      "slug": "alexs-caves-neo",
+      "versionId": "8448747",
+      "versionNumber": "alexscaves-2.0.2.jar",
+      "filename": "alexscaves-2.0.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8448/747/alexscaves-2.0.2.jar",
+      "sha1": "d0e18341a23e55250a1244a7fbed0b3eca8fc9e4",
+      "fileSize": 74859329
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

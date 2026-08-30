@@ -1,0 +1,23 @@
+{
+  "name": "MAtmos - Ambient sound",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "bTSEAgRY",
+      "slug": "matmos-ambient-sound",
+      "versionId": "KmdNuGqV",
+      "versionNumber": "7.7",
+      "filename": "matmos_tct-7.7-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bTSEAgRY/versions/KmdNuGqV/matmos_tct-7.7-neoforge-1.21.1.jar",
+      "sha1": "e8c490c6fbc6c0a46420d88d24e63715fa3f42fa",
+      "sha512": "ce5aa0a339b6eda082bcc89e14460121594d3524a0524b6b2aaec9e8e5c868b5303ae94a6d18cd880e692785b486cf8ccfa28acb08194c19e7104e273ae1032e",
+      "fileSize": 29827087
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

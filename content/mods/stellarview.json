@@ -1,0 +1,23 @@
+{
+  "name": "Stellar View",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Iairjv0A",
+      "slug": "stellarview",
+      "versionId": "QD13LaRR",
+      "versionNumber": "0.5.2",
+      "filename": "Stellar View-1.21.1-0.5.2-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Iairjv0A/versions/QD13LaRR/Stellar%20View-1.21.1-0.5.2-NeoForge.jar",
+      "sha1": "8c3c9b8d06c5917b70152c07a89701307bfd3065",
+      "sha512": "76040793d7bae9dd2b557f4f8c1bc6eeb00521ba21582bff2c57a91b0d5709e5c0a9c1ba980f48e96aebde2a64d288d58df885ecaf82178fae8eb5fbd0982b55",
+      "fileSize": 564564
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "TCT Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MlsBPB9a",
+      "slug": "tct-core",
+      "versionId": "NluYcYa2",
+      "versionNumber": "2.2",
+      "filename": "tctcore-2.3-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MlsBPB9a/versions/NluYcYa2/tctcore-2.3-neoforge-1.21.1.jar",
+      "sha1": "a5384428a223cd255c2ed55b4bfc3363635e280d",
+      "sha512": "1dcbf1d943f4ed03d5c8054bc4fa25f38f41756d36e7e84274d8508f62006a307174b3eb551e713990409cae7baa972637834ca55827b3cf577e4164e0cd1a96",
+      "fileSize": 8118709
+    }
+  },
+  "dependents": [
+    "bTSEAgRY"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fancy World Animations",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "IAzUFvS6",
+      "slug": "fwa",
+      "versionId": "79A6vRlK",
+      "versionNumber": "1.2.31",
+      "filename": "fwa+1.21.1-neoforge-1.2.31.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/IAzUFvS6/versions/79A6vRlK/fwa%2B1.21.1-neoforge-1.2.31.jar",
+      "sha1": "a896f8442b9ffa62345b1fcfb868dd86a894d3e1",
+      "sha512": "dd44ef2dad3df2b52610b2f289f02590265b467409737630ae12ac5d540613f84191a1b5488bac8098ebbeb78f1922b3b6d86c2c09bbe026f46c88f91b25f74a",
+      "fileSize": 385558
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

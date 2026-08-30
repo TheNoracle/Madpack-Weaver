@@ -1,0 +1,22 @@
+{
+  "name": "Savage Ender Dragon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "523327",
+      "slug": "savage-ender-dragon",
+      "versionId": "6828602",
+      "versionNumber": "dragonfight-1.21-4.7.jar",
+      "filename": "dragonfight-1.21-4.7.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6828/602/dragonfight-1.21-4.7.jar",
+      "sha1": "9c4b7d0b3568c9cf27668264f0a4d62cd0e002f2",
+      "fileSize": 35942
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

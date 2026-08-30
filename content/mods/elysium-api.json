@@ -1,0 +1,25 @@
+{
+  "name": "Elysium API",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6YTvv3aI",
+      "slug": "elysium-api",
+      "versionId": "d2JaQ362",
+      "versionNumber": "1.21.1-2.0.1",
+      "filename": "ElysiumAPI-1.21.1-2.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6YTvv3aI/versions/d2JaQ362/ElysiumAPI-1.21.1-2.0.1.jar",
+      "sha1": "01754addbc1d0607d81fcd37e0605138bec4ceaf",
+      "sha512": "22daa9fa8018baeeaaec1d5c3e91e13099300208ca2c6d57fbba63d9fddef583a097b9ebe0b590b5095f48a449c6230cdf193d22d4d7501c9725918d984448db",
+      "fileSize": 307526
+    }
+  },
+  "dependents": [
+    "v3UlehfS"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

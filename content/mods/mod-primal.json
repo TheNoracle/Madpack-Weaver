@@ -1,0 +1,23 @@
+{
+  "name": "Primal",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "41B2buzz",
+      "slug": "mod-primal",
+      "versionId": "bjAno6mP",
+      "versionNumber": "1.1.6",
+      "filename": "primal-1.1.6+1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/41B2buzz/versions/bjAno6mP/primal-1.1.6%2B1.21.jar",
+      "sha1": "609c9217dfeebb42fe4e070d63aa6d0e1d818c5b",
+      "sha512": "aa1cb5ba4e4043493f0fe573b08adba314aa03be1e9373ff962b1e27d0847a22711dc88a093cc3908fc4a5fb7057ffcc6b42279e000b7483f912bbcd044166dc",
+      "fileSize": 13075156
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

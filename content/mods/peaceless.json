@@ -1,0 +1,23 @@
+{
+  "name": "Peaceless",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "64LYq6Wj",
+      "slug": "peaceless",
+      "versionId": "DliuSIK0",
+      "versionNumber": "1.0",
+      "filename": "peaceless-1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/64LYq6Wj/versions/DliuSIK0/peaceless-1.0.jar",
+      "sha1": "76932927fd1a974fb4500641436494e4698b9686",
+      "sha512": "6d797a5cd6266405adf1a90b66bb732f6ab6368888aee96f4abb3b16b53577786a71483490b84aefc7b410953946f43e9ae41862ff7b41324020054eacbe1933",
+      "fileSize": 1841716
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bountiful Pears",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6Dp7qelE",
+      "slug": "bountiful-pears",
+      "versionId": "di7SUjGT",
+      "versionNumber": "1.0.1",
+      "filename": "bountifulpears-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6Dp7qelE/versions/di7SUjGT/bountifulpears-1.0.1.jar",
+      "sha1": "b1b478f967286591403deac07438b4f708ea0415",
+      "sha512": "c19009ee7b1e0843f8ccd2ade49b7e3205ddddc575a428c09a8744b7286fae7638140107f05947d080896212cd6613b5d0cbd6fb517971e3e7161363f6c8677b",
+      "fileSize": 99012
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

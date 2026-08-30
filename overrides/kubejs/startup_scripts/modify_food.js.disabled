@@ -1,0 +1,307 @@
+// priority: 0
+
+ItemEvents.modification(event => {
+
+event.modify('neapolitan:adzuki_stew', item => {
+    item.setFoodProperties(food => {
+        food.effect('farmersdelight:nourishment', 1200, 0, 100)
+    })
+})
+event.modify('incubation:scrambled_eggs', item => {
+    item.setFoodProperties(food => {
+        food.effect('farmersdelight:nourishment', 600, 0, 100)
+    })
+})
+event.modify('autumnity:foul_soup', item => {
+    item.setFoodProperties(food => {
+        food.effect('farmersdelight:nourishment', 600, 0, 100)
+    })
+})
+event.modify('abnormals_delight:pike_with_beetroot', item => {
+    item.setFoodProperties(food => {
+        food.removeEffect('farmersdelight:nourishment').effect('farmersdelight:nourishment', 6000, 0, 100)
+    })
+})
+event.modify('minersdelight:insect_stew', item => {
+    item.setFoodProperties(food => {
+        food.effect('farmersdelight:nourishment', 600, 0, 100)
+    })
+})
+event.modify('minersdelight:takoyaki', item => {
+    item.setFoodProperties(food => {
+        food.effect('farmersdelight:nourishment', 2400, 0, 100)
+    })
+})
+event.modify('alexscaves:vesper_stew', item => {
+    item.setFoodProperties(food => {
+        food.effect('farmersdelight:nourishment', 1200, 0, 100)
+    })
+})
+event.modify('alexscaves:serene_salad', item => {
+    item.setFoodProperties(food => {
+        food.effect('minecraft:regeneration', 100, 0, 100)
+    })
+})
+event.modify('alexscaves:primordial_soup', item => {
+    item.setFoodProperties(food => {
+        food.removeEffect('minecraft:haste').effect('farmersdelight:nourishment', 2400, 0, 100)
+    })
+})
+event.modify('alexscaves:candy_cane', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:berserking', 300, 0, 100)
+    })
+})
+event.modify('alexscaves:sharpened_candy_cane', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:berserking', 1200, 0, 100)
+    })
+})
+event.modify('alexscaves:candy_cane_block', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:berserking', 2400, 0, 100)
+    })
+})
+event.modify('alexscaves:chiseled_candy_cane_block', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:berserking', 2400, 0, 100)
+    })
+})
+event.modify('alexscaves:stripped_candy_cane_block', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:berserking', 2400, 0, 100)
+    })
+})
+event.modify('alexscaves:candy_cane_pole', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:berserking', 900, 0, 100)
+    })
+})
+event.modify('alexscaves:stripped_candy_cane_pole', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:berserking', 900, 0, 100)
+    })
+})
+event.modify('alexscaves:large_peppermint', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:berserking', 1800, 0, 100)
+    })
+})
+event.modify('alexscaves:small_peppermint', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:berserking', 1200, 0, 100)
+    })
+})
+event.modify('alexscaves:sundae', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:sugar_rush', 400, 1, 100)
+        .effect('neapolitan:vanilla_scent', 200, 0, 100)
+        .effect('neapolitan:berserking', 300, 0, 100)
+    })
+})
+event.modify('alexscaves:frostmint', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:berserking', 800, 0, 100)
+    })
+})
+event.modify('minecraft:cookie', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:sugar_rush', 100, 0, 100)
+    })
+})
+event.modify('alexscaves:block_of_chocolate', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:sugar_rush', 2400, 2, 100)
+    })
+})
+event.modify('alexscaves:block_of_polished_chocolate', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:sugar_rush', 2400, 2, 100)
+    })
+})
+event.modify('alexscaves:block_of_chiseled_chocolate', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:sugar_rush', 2400, 2, 100)
+    })
+})
+event.modify('alexscaves:block_of_frosted_chocolate', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:sugar_rush', 1200, 2, 100)
+    })
+})
+event.modify('alexscaves:block_of_chocolate_frosting', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:sugar_rush', 200, 0, 100)
+    })
+})
+event.modify('neapolitan:chocolate_ice_cream_block', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:sugar_rush', 600, 2, 100)
+    })
+})
+event.modify('neapolitan:vanilla_ice_cream_block', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:vanilla_scent', 400, 0, 100)
+    })
+})
+event.modify('alexscaves:block_of_vanilla_frosting', item => {
+    item.setFoodProperties(food => {
+        food.effect('neapolitan:vanilla_scent', 100, 0, 100)
+    })
+})
+event.modify('neapolitan:banana_ice_cream_block', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(4)
+        .effect('neapolitan:agility', 1200, 0, 100)
+    })
+})
+event.modify('neapolitan:mint_ice_cream_block', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(4)
+        .effect('neapolitan:berserking', 1600, 0, 100)
+    })
+})
+event.modify('neapolitan:adzuki_ice_cream_block', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(4)
+        .effect('neapolitan:harmony', 600, 0, 100)
+    })
+})
+event.modify('species:alphacene_mushroom', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(2)
+        .saturation(0.6)
+        .effect('poison', 300, 0, 0.25)
+    })
+})
+event.modify('quark:glow_shroom', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(2)
+        .saturation(0.6)
+        .effect('glowing', 600, 0, 1)
+    })
+})
+event.modify('minecraft:brown_mushroom', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(2)
+        .saturation(0.6)
+    })
+})
+event.modify('minecraft:red_mushroom', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(2)
+        .saturation(0.6)
+        .effect('poison', 300, 0, 0.75)
+    })
+})
+event.modify('minecraft:crimson_fungus', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(1)
+        .saturation(0.2)
+        .effect('nausea', 300, 0, 1)
+        .effect('autumnity:foul_taste', 100, 0, 0.5)
+    })
+})
+event.modify('minecraft:warped_fungus', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(1)
+        .saturation(0.2)
+        .effect('nausea', 900, 0, 1)
+        .effect('autumnity:foul_taste', 200, 0, 0.5)
+    })
+})
+event.modify('brewinandchewin:pizza_slice', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(5)
+    })
+})
+event.modify('farmersdelight:steak_and_potatoes', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(14)
+    })
+})
+//event.modify('species:youth_potion', item => {
+//    item.setFoodProperties(food => {
+//        food.effect('inhabitants:reverse_growth', 12000, 0, 1)
+//        .alwaysEdible()
+//    })
+//})
+event.modify('windswept:spicy_snow_cone', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(6)
+    })
+})
+event.modify('windswept:sweet_snow_cone', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(6)
+    })
+})
+event.modify('windswept:minty_snow_cone', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(6)
+    })
+})
+//event.modify('cavedelight:boiled_dino_egg', item => {
+//    item.setFoodProperties(food => {
+//        food.nutrition(8)
+//    })
+//})
+event.modify('minecraft:mushroom_stew', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(8)
+    })
+})
+event.modify('farmersdelight:vegetable_soup', item => {
+    item.setFoodProperties(food => {
+        food.nutrition(8)
+    })
+})
+
+//Fast to eat!
+event.modify([
+    "incubation:fried_egg",
+    "upgrade_aquatic:boiled_pickerelweed",
+    "atmospheric:passion_fruit_tart",
+    "alexscaves:pine_nuts",
+    "atmospheric:aloe_leaves",
+    "neapolitan:strawberry_scones",
+    "neapolitan:dried_vanilla_pods",
+    "neapolitan:vanilla_fudge",
+    "neapolitan:banana_bread",
+    "neapolitan:mint_candies",
+    "neapolitan:mint_chocolate",
+    "neapolitan:strawberry_bean_bonbons",
+    "neapolitan:chocolate_strawberries",
+    "neapolitan:vanilla_chocolate_fingers",
+    "neapolitan:dried_banana",
+    "neapolitan:chocolate_spider_eye",
+    "upgrade_aquatic:mulberry",
+    "abnormals_delight:maple_glazed_bacon",
+    "minecraft:melon_slice",
+    "minecraft:glow_berries",
+    "minecraft:sweet_berries",
+    "atmospheric:currant",
+    "atmospheric:currant_muffin",
+    "cookscollection:lemon_muffin",
+    "cookscollection:chocolate_muffin"
+], item => {
+    item.setFoodProperties(food => {
+        food.fastToEat()
+    })
+})
+//Fixing cake slices
+event.modify([
+    'farmersdelight:cake_slice',
+    'abnormals_delight:vanilla_cake_slice',
+    'abnormals_delight:chocolate_cake_slice',
+    'abnormals_delight:strawberry_cake_slice',
+    'abnormals_delight:banana_cake_slice',
+    'abnormals_delight:mint_cake_slice',
+    'abnormals_delight:adzuki_cake_slice'
+], item => {
+    item.setFoodProperties(food => {
+        food.removeEffect('minecraft:speed')
+    })
+})
+
+})

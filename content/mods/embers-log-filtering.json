@@ -1,0 +1,23 @@
+{
+  "name": "Ember's Log Filtering",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FQe0irLI",
+      "slug": "embers-log-filtering",
+      "versionId": "rxiqkrkD",
+      "versionNumber": "1.1.2+neoforge-1211",
+      "filename": "logfilter-neoforge-1.21.1-1.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FQe0irLI/versions/rxiqkrkD/logfilter-neoforge-1.21.1-1.1.2.jar",
+      "sha1": "bdcd27111335538d12eaf4550f04254e9355c58c",
+      "sha512": "e90a93a04697839b651f2bd5b7456ed55bc1af8d427526d1a35beaf215c54cddf0e6032fbc9c46f2301860b44019c503f1471742f613d3c516e0806518282b83",
+      "fileSize": 26633
+    }
+  },
+  "dependents": [],
+  "clientSide": "unknown",
+  "serverSide": "unknown"
+}

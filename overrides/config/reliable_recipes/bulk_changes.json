@@ -1,0 +1,23 @@
+[
+    {
+        "action": "replace_input",
+        "target": "minecraft:stick",
+        "replacement": "#c:rods/wooden"
+    },
+    {
+        "action": "replace_input",
+        "target": "clayworks:concrete_powder",
+        "replacement": "wayfarer_core:concrete_powder"
+    },
+    {
+        "action": "replace_input",
+        "target": "clayworks:concrete",
+        "replacement": "wayfarer_core:concrete"
+    },
+    {
+        "action": "replace_input",
+        "input": "#wayfarer_core:waxable_in_crafting",
+        "target": "minecraft:honeycomb",
+        "replacement": "wayfarer_core:wax"
+    }
+]

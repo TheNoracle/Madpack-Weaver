@@ -1,0 +1,35 @@
+{
+  "configVersion": 1,
+  "enabled": true,
+  "rules": [
+    {
+      "name": "Suppress OpenAL info spam",
+      "enabled": true,
+      "type": "LOGGER_NAME",
+      "pattern": "org.lwjgl.openal",
+      "action": "DENY"
+    },
+    {
+      "name": "Suppress DEBUG from server level",
+      "enabled": true,
+      "type": "LOGGER_NAME",
+      "pattern": "net.minecraft.server.level",
+      "action": "DENY",
+      "level": "DEBUG"
+    },
+    {
+      "name": "Suppress scroll spam",
+      "enabled": true,
+      "type": "MESSAGE_REGEX",
+      "pattern": "MacOSInputFixesMod",
+      "action": "DENY"
+    },
+    {
+      "name": "Always allow error messages",
+      "enabled": true,
+      "type": "LEVEL",
+      "pattern": "ERROR",
+      "action": "ALLOW"
+    }
+  ]
+}

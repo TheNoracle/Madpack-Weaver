@@ -1,0 +1,25 @@
+{
+  "name": "Immersive Overlays",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "PKoLkD98",
+      "slug": "immersive-overlays",
+      "versionId": "2CVFvABH",
+      "versionNumber": "1.8.2+1.21.1-neoforge",
+      "filename": "immersiveoverlays-1.8.2+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PKoLkD98/versions/2CVFvABH/immersiveoverlays-1.8.2%2B1.21.1-neoforge.jar",
+      "sha1": "a9e66458265dd0279debc569c835f0d2abafdd6e",
+      "sha512": "5343ba2e82c8157e033dec3f670fdaa2c9458ffb754f491ca5b113655064463e7bc5ce79428161f9150852224a80555fbb50f14f066e6afab43f9fc579da5076",
+      "fileSize": 446669
+    }
+  },
+  "dependents": [
+    "72RRCWM6"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

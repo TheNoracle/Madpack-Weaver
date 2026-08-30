@@ -1,0 +1,23 @@
+{
+  "name": "Optimized Block Entities",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "AtOSAunf",
+      "slug": "obe",
+      "versionId": "z2wKnXvi",
+      "versionNumber": "1.1.41-patch.1",
+      "filename": "obe+1.21.1-neoforge-1.1.41-patch.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/AtOSAunf/versions/z2wKnXvi/obe%2B1.21.1-neoforge-1.1.41-patch.1.jar",
+      "sha1": "227d80e0ae34ff1380921398de19c95abbadaa5d",
+      "sha512": "8a739f1e201dfd4ce1f5c48522f5075b554fda759118756828aefa466d8bd5e0192753067f4de930e13d801ed908d557dc03becf452156299cc3d0f8893e7a3a",
+      "fileSize": 196722
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

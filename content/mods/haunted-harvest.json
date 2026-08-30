@@ -1,0 +1,23 @@
+{
+  "name": "Haunted Harvest",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "a378ICDH",
+      "slug": "haunted-harvest",
+      "versionId": "GdJA2UIU",
+      "versionNumber": "1.21-3.5.0",
+      "filename": "hauntedharvest-1.21-3.5.0-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/a378ICDH/versions/GdJA2UIU/hauntedharvest-1.21-3.5.0-neoforge.jar",
+      "sha1": "270d98b5c6581c45a418ccb2e88378676ef2880d",
+      "sha512": "bbd451ed277968be09dfdb4b0040b57eb3f2693ab69c4bc75997322f62f93ccc9325a2cb2a1d9936c585d682a80621219e4155bcc1a9aea69bc07c9b1e205b0d",
+      "fileSize": 538527
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Backup (Straw) Beds",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1648790",
+      "slug": "backup-straw-beds",
+      "versionId": "8626380",
+      "versionNumber": "Better Straw Beds Neoforge 1.21.1 - 1.0.0",
+      "filename": "better_straw_beds-neoforge-1.21.1-1.0.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8626/380/better_straw_beds-neoforge-1.21.1-1.0.0.jar",
+      "sha1": "ce89d80809f89588a20319b3103482e236267403",
+      "fileSize": 237022
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

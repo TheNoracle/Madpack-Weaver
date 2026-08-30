@@ -1,0 +1,23 @@
+{
+  "name": "Gouge",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "7ZwT9z3D",
+      "slug": "gouge",
+      "versionId": "NcYMyynB",
+      "versionNumber": "1.2",
+      "filename": "gouge-1.2-mc1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7ZwT9z3D/versions/NcYMyynB/gouge-1.2-mc1.21.1-neoforge.jar",
+      "sha1": "b865688409af64e2a84f295a774b66cc5036d5d9",
+      "sha512": "ae55ae01ca546fae326c1b1f87b9d5f27815b43354428b3a719a4f9fde1eef0deb4371a53ee8a64e7818228621f1ceca120c37c67543b3892ec1231ed3d0c812",
+      "fileSize": 51129
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

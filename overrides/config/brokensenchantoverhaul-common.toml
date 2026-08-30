@@ -1,0 +1,31 @@
+#If enabled: 
+#1. All items can only have one enchantment
+#2. Enchantments will only have one level
+#3. Enchantments will function as if they are at their original maximum level
+#4. Enchanted armor, tools, weapons gain increases to their protection, efficiency, durability respectively
+#5. Removes anvil work costs; repair costs are fixed amounts depending on whether an item is enchanted or not
+#
+#Disabling this is not recommended and will have negative effects on gameplay unless you are a datapack author who knows what you're doing.
+"Single enchantment mode" = true
+#The experience and lapis cost to apply an enchantment to an item in an enchanting table
+# Default: 10
+# Range: 4 ~ 64
+"Enchantment cost" = 10
+#The experience needed to apply an enchanted book to an item in an anvil
+# Default: 10
+# Range: 4 ~ 64
+"Enchanted book anvil cost" = 10
+#The experience needed to repair enchanted items in an anvil using its repair material
+# Default: 2
+# Range: 2 ~ 64
+"Enchanted item material repair cost" = 2
+#The experience needed to repair enchanted items in an anvil using a copy of the item
+# Default: 5
+# Range: 4 ~ 64
+"Enchanted item full repair cost" = 5
+#The experience needed to rename items in an anvil
+# Default: 1
+# Range: 1 ~ 64
+"Anvil rename cost" = 1
+#When enabled, thrown tridents will return to their owners without the need for the Loyalty Enchantment
+"Tridents have builtin Loyalty" = true

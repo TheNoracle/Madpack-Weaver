@@ -1,0 +1,18 @@
+[
+    {
+        "action": "remove_recipe",
+        "type": [
+            "minecraft:blasting",
+            "create:crushing",
+            "create:milling",
+            "create:automated_shaped_crafting_crafting",
+            "create:deploying",
+            "create:cutting",
+            "create:splashing",
+            "create:haunting",
+            "create:potion_mixing",
+            "create:mixing",
+            "bountifulfares:milling"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "Bits and Balance",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "77x98dqG",
+      "slug": "bits-and-balance",
+      "versionId": "uBLVbLLV",
+      "versionNumber": "2.2.23",
+      "filename": "bitsandbalance-neoforge-1.21.1-2.2.23.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/77x98dqG/versions/uBLVbLLV/bitsandbalance-neoforge-1.21.1-2.2.23.jar",
+      "sha1": "4699a02bb2d6544c6818e609e83c7e728a9d5ff6",
+      "sha512": "ea0209d2a443d19d46f168307cb21b212448b5d3702635a03a1bb6aa4e0935484c8c84712ac2a3d997a70455a2481b487b711c6552f7f10adcf956f591d35d46",
+      "fileSize": 4001342
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

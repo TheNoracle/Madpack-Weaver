@@ -1,0 +1,23 @@
+{
+  "name": "Advancement Frames",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zUBn5hHr",
+      "slug": "advancement-frames",
+      "versionId": "Tr5hm3zL",
+      "versionNumber": "neoforge_1.21-2.2.10",
+      "filename": "advancementframes-1.21-2.2.10-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zUBn5hHr/versions/Tr5hm3zL/advancementframes-1.21-2.2.10-neoforge.jar",
+      "sha1": "88a930f6effde6b90780274ccd2ad8eb7e7064cb",
+      "sha512": "b2842d77e1423fd5c844589b003ee0fee7e49b055f5dc9d6b3abea83c39d338d291f8f2576f2d38029d33913e1a284b3b05d80cbc8481e82b595269f6b40b2d8",
+      "fileSize": 220848
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

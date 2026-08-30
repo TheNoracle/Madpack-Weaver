@@ -1,0 +1,23 @@
+{
+  "name": "High Noon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lseLi1yB",
+      "slug": "high-noon",
+      "versionId": "hZg6sqG8",
+      "versionNumber": "1.1.1",
+      "filename": "high_noon-1.21.1-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lseLi1yB/versions/hZg6sqG8/high_noon-1.21.1-1.1.1.jar",
+      "sha1": "931bea057365f6369c658ad12040db956295587d",
+      "sha512": "4179b8ebee66d74ba5e9aa4dcced488581b1af864abbee1f15d1f032bcd27ede46aa21ca4218d425a9a61d86e63dc7d46eb4ce8d02bc90d28711bd5a5781c077",
+      "fileSize": 512239
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

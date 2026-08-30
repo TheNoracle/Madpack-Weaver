@@ -1,0 +1,23 @@
+{
+  "name": "Auto Third Person",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ANu8FMzT",
+      "slug": "auto-third-person",
+      "versionId": "o2kINZoC",
+      "versionNumber": "2.2-neo-1.21.1",
+      "filename": "auto_third_person-neo-1.21.1-2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ANu8FMzT/versions/o2kINZoC/auto_third_person-neo-1.21.1-2.2.jar",
+      "sha1": "5b66b1c3ca8d32d06327d9564abf5a364296af3c",
+      "sha512": "1f6e395aafdf46e18a9873fa89d6bd4ad3a3cf800d0d1e33191ac8afaf50461a59174247ec5be3e8f6dfe7e360f444f27a0b41ccd9b3b9812598da9950e27f47",
+      "fileSize": 47890
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

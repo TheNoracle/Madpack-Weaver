@@ -1,0 +1,23 @@
+{
+  "name": "Nest Egg",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uxgTrwJT",
+      "slug": "nest-egg",
+      "versionId": "13jTxWND",
+      "versionNumber": "2.0.2",
+      "filename": "nest_egg-1.21.1-2.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uxgTrwJT/versions/13jTxWND/nest_egg-1.21.1-2.0.2.jar",
+      "sha1": "c1e46bb455d1b926191b6bbd58b2a60e252c02e6",
+      "sha512": "0822bb67f002716e3797ca4e215389fe85a5abb8824a0c94ede2d3cbb875703d1c0c6dfd0b6250614fff3a71455b604132db6f716f5cd61aeb0691fef1650672",
+      "fileSize": 531227
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Piglin Proliferation",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "iRE67WIn",
+      "slug": "piglin-proliferation",
+      "versionId": "NsVkx365",
+      "versionNumber": "2.0.15",
+      "filename": "piglinproliferation-1.21.1-2.0.15.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/iRE67WIn/versions/NsVkx365/piglinproliferation-1.21.1-2.0.15.jar",
+      "sha1": "e6573a4e1132f4cad59476405502a2f5a7d84767",
+      "sha512": "bc13e37709d8466da392ab869aa352143b42c8c93107e0b6b99695cd990ea474d0229accd4a36ac721505f0520898f14e75d894f1b5e6147648f4fa387bde610",
+      "fileSize": 2504303
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

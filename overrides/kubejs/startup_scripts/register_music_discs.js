@@ -1,0 +1,143 @@
+// priority: 0
+
+StartupEvents.registry('item', event => {
+
+    event.create('kubejs:music_disc_dog')
+      .jukeboxPlayable('kubejs:dog', true)
+      .texture('kubejs:item/music_disc_dog')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+  
+    event.create('kubejs:music_disc_frontier')
+      .jukeboxPlayable('kubejs:frontier', true)
+      .texture('kubejs:item/music_disc_frontier')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_halland_dalarna')
+      .jukeboxPlayable('kubejs:halland_dalarna', true)
+      .texture('kubejs:item/music_disc_halland_dalarna')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+   
+    event.create('kubejs:music_disc_origin')
+      .jukeboxPlayable('kubejs:origin', true)
+      .texture('kubejs:item/music_disc_origin')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+ 
+    event.create('kubejs:music_disc_redstone_baby')
+      .jukeboxPlayable('kubejs:redstone_baby', true)
+      .texture('kubejs:item/music_disc_redstone_baby')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_shimmer')
+      .jukeboxPlayable('kubejs:shimmer', true)
+      .texture('kubejs:item/music_disc_shimmer')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_twelve')
+      .jukeboxPlayable('kubejs:twelve', true)
+      .texture('kubejs:item/music_disc_twelve')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_capybara')
+      .jukeboxPlayable('kubejs:capybara', true)
+      .texture('kubejs:item/music_disc_capybara')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_fractal')
+      .jukeboxPlayable('kubejs:fractal', true)
+      .texture('kubejs:item/music_disc_fractal')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_fragment')
+      .jukeboxPlayable('kubejs:fragment', true)
+      .texture('kubejs:item/music_disc_fragment')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_star')
+      .jukeboxPlayable('kubejs:star', true)
+      .texture('kubejs:item/music_disc_star')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_sun')
+      .jukeboxPlayable('kubejs:sun', true)
+      .texture('kubejs:item/music_disc_sun')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_warp')
+      .jukeboxPlayable('kubejs:warp', true)
+      .texture('kubejs:item/music_disc_warp')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_candlelit')
+      .jukeboxPlayable('kubejs:candlelit', true)
+      .texture('kubejs:item/music_disc_candlelit')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_creakstep')
+      .jukeboxPlayable('kubejs:creakstep', true)
+      .texture('kubejs:item/music_disc_creakstep')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_frog_march')
+      .jukeboxPlayable('kubejs:frog_march', true)
+      .texture('kubejs:item/music_disc_frog_march')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_bluupy')
+      .jukeboxPlayable('kubejs:bluupy', true)
+      .texture('kubejs:item/music_disc_bluupy')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_fly')
+      .jukeboxPlayable('kubejs:fly', true)
+      .texture('kubejs:item/music_disc_fly')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_harvest')
+      .jukeboxPlayable('kubejs:harvest', true)
+      .texture('kubejs:item/music_disc_harvest')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_kena')
+      .jukeboxPlayable('kubejs:kena', true)
+      .texture('kubejs:item/music_disc_kena')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_loofah')
+      .jukeboxPlayable('kubejs:loofah', true)
+      .texture('kubejs:item/music_disc_loofah')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_melanc')
+      .jukeboxPlayable('kubejs:melanc', true)
+      .texture('kubejs:item/music_disc_melanc')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    event.create('kubejs:music_disc_wuop')
+      .jukeboxPlayable('kubejs:wuop', true)
+      .texture('kubejs:item/music_disc_wuop')
+      .displayName('Music Disc')
+      .tag('minecraft:music_discs')
+
+    })

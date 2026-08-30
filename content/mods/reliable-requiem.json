@@ -1,0 +1,23 @@
+{
+  "name": "Reliable Requiem",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "a744zhJU",
+      "slug": "reliable-requiem",
+      "versionId": "StVZMXHW",
+      "versionNumber": "1.3.0-1.21.1-neoforge",
+      "filename": "reliable_requiem-neoforge-1.21.1-1.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/a744zhJU/versions/StVZMXHW/reliable_requiem-neoforge-1.21.1-1.3.0.jar",
+      "sha1": "6b268d95335de54112205e0a4fb5562f49b9116b",
+      "sha512": "5c16244bc20350c068adaea186b8cbce15891fe8d92e458a69c21687330b2efc16e4f33dac6e7bb9be370d385f700e2bcbfb73f8bcfa779efbfecc8eda3815fd",
+      "fileSize": 82300
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

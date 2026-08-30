@@ -1,0 +1,23 @@
+{
+  "name": "Refield",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nnkqwYKH",
+      "slug": "refield",
+      "versionId": "fydIEEMt",
+      "versionNumber": "1.1.1-1.21.1-neoforge",
+      "filename": "field-neoforge-1.21.1-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nnkqwYKH/versions/fydIEEMt/field-neoforge-1.21.1-1.1.1.jar",
+      "sha1": "f302ea49c98ef9e7bd04acda62398f39588ffea4",
+      "sha512": "0a8ce0ddcb0c10d30efea28c023574cc912eac297dc4ff8b2259c8595ae39e026d2862046d9a8f99e87cdce55d66d310b6b96483f0e5a3cf09a4e0ba8a120623",
+      "fileSize": 438608
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

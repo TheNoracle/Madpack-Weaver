@@ -1,0 +1,23 @@
+{
+  "name": "Alterna",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NcjLZpAb",
+      "slug": "alterna",
+      "versionId": "C3U56dN9",
+      "versionNumber": "1.3.1",
+      "filename": "alterna-1.3.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NcjLZpAb/versions/C3U56dN9/alterna-1.3.1.jar",
+      "sha1": "5ff5cbaf6ebe61d778292356a00aa01265c38633",
+      "sha512": "7fdc391256b7014efc1f24bc7be574fe93b590f075710c3423fa8bffbd655d38ec77e265946f50242df7bc9b32207d71d6e1c78d8ab075ab0c17bc936358e4fe",
+      "fileSize": 3020549
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

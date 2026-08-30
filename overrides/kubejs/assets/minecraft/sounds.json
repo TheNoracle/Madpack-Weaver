@@ -1,0 +1,1142 @@
+{
+  "music.creative": {
+	"sounds": [
+      {
+        "name": "music/game/creative/beginning",
+        "stream": true
+      },
+      {
+        "name": "music/game/creative/moog_city",
+        "stream": true
+      },
+      {
+        "name": "music/game/echo_in_the_wind",
+        "stream": true
+      },
+      {
+        "name": "music/game/kronos",
+        "stream": true
+      },
+      {
+        "name": "music/game/creative/becrode",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/bumpy",
+        "stream": true
+      },
+      {
+        "name": "music/farvel_memory",
+        "stream": true
+      },
+      {
+        "name": "music/flotsam",
+        "stream": true
+      },
+      {
+        "name": "music/gom",
+        "stream": true
+      },
+      {
+        "name": "music/guenzburg",
+        "stream": true
+      },
+      {
+        "name": "music/lock",
+        "stream": true
+      },
+      {
+        "name": "music/scrat",
+        "stream": true
+      },
+      {
+        "name": "music/two_note_dance",
+        "stream": true
+      },
+      {
+        "name": "music/waterfall_novela",
+        "stream": true
+      },
+      {
+        "name": "music/wind",
+        "stream": true
+      }
+    ]
+  },
+  "music.end": {
+    "sounds": [
+      {
+        "name": "music/game/end/coda",
+        "volume": 0.4,
+        "stream": true
+      },
+      {
+        "name": "music/game/end/the_voyager",
+        "volume": 0.4,
+        "stream": true
+      },
+      {
+        "name": "music/game/end/wires",
+        "volume": 0.3,
+        "stream": true
+      },
+      {
+        "name": "music/game/end/nowhere",
+        "volume": 0.3,
+        "stream": true
+      }
+    ]
+  },
+  "music.game": {
+    "sounds": [
+      {
+        "name": "music/game/equinoxe",
+        "stream": true
+      },
+      {
+        "name": "music/game/door",
+        "stream": true
+      },
+      {
+        "name": "music/game/chris",
+        "stream": true
+      },
+	    {
+        "name": "music/game/a_familiar_room",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/gymnopedie",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/trees",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/click",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/overworld/anais",
+        "volume": 0.3,
+        "stream": true
+      },
+      {
+        "name": "music/game/overworld/remote",
+        "volume": 0.3,
+        "stream": true
+      },
+      {
+        "name": "music/game/overworld/rodhim",
+        "volume": 0.3,
+        "stream": true
+      },
+      {
+        "name": "music/game/overworld/yellow_haze",
+        "volume": 0.3,
+        "stream": true
+      },
+      {
+        "name": "music/game/overworld/donhacky",
+        "volume": 0.3,
+        "stream": true
+      },
+      {
+        "name": "music/game/overworld/aweigh",
+        "volume": 0.3,
+        "stream": true
+      },
+      {
+        "name": "music/game/overworld/idle_hands",
+        "volume": 0.3,
+        "stream": true
+      },
+      {
+        "name": "music/game/overworld/overworld",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/game/eld_unknown",
+        "volume": 0.3,
+        "stream": true
+      },
+      {
+        "name": "music/bumpy",
+        "stream": true
+      },
+      {
+        "name": "music/farvel_memory",
+        "stream": true
+      },
+      {
+        "name": "music/flotsam",
+        "stream": true
+      },
+      {
+        "name": "music/gom",
+        "stream": true
+      },
+      {
+        "name": "music/guenzburg",
+        "stream": true
+      },
+      {
+        "name": "music/lock",
+        "stream": true
+      },
+      {
+        "name": "music/scrat",
+        "stream": true
+      },
+      {
+        "name": "music/two_note_dance",
+        "stream": true
+      },
+      {
+        "name": "music/waterfall_novela",
+        "stream": true
+      },
+      {
+        "name": "music/wind",
+        "stream": true
+      }
+    ]
+  },
+  "music.menu": {
+    "sounds": [
+      {
+        "name": "music/game/equinoxe",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/game/door",
+        "stream": true
+      },
+      {
+        "name": "music/game/infinite_amethyst",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/beta",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/work_life_imbalance",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "music/game/only_human",
+        "stream": true,
+        "volume": 0.15
+      },
+      {
+        "name": "music/game/certitudes",
+        "stream": true,
+        "volume": 0.15
+      },
+      {
+        "name": "music/game/stilbruch",
+        "stream": true
+      },
+      {
+        "name": "music/game/independent_accident",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "music/main_menu",
+        "stream": true
+      },
+      {
+        "name": "music/farvel_memory",
+        "stream": true
+      },
+      {
+        "name": "music/scrat",
+        "stream": true
+      },
+      {
+        "name": "music/wind",
+        "stream": true
+      },
+      {
+        "name": "music/lock",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.basalt_deltas": {
+    "sounds": [
+      {
+        "name": "music/game/nether/excuse",
+        "stream": true
+      },
+      {
+        "name": "music/game/nether/intro",
+        "stream": true
+      },
+      {
+        "name": "music/game/nether/ki",
+        "stream": true
+      },
+      {
+        "name": "music/nokk",
+        "stream": true
+      },
+      {
+        "name": "music/red_fortress",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.crimson_forest": {
+    "sounds": [
+      {
+        "name": "music/game/nether/excuse",
+        "stream": true
+      },
+      {
+        "name": "music/game/nether/intro",
+        "stream": true
+      },
+      {
+        "name": "music/game/nether/ki",
+        "stream": true
+      },
+      {
+        "name": "music/nokk",
+        "stream": true
+      },
+      {
+        "name": "music/red_fortress",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.nether_wastes": {
+    "sounds": [
+      {
+        "name": "music/game/nether/excuse",
+        "stream": true
+      },
+      {
+        "name": "music/game/nether/intro",
+        "stream": true
+      },
+      {
+        "name": "music/game/nether/ki",
+        "stream": true
+      },
+      {
+        "name": "music/game/nether/accumulon",
+        "volume": 0.4,
+        "stream": true,
+        "weight": 4
+      },
+      {
+        "name": "music/nokk",
+        "stream": true
+      },
+      {
+        "name": "music/red_fortress",
+        "stream": true
+      }
+
+    ]
+  },
+  "music.nether.soul_sand_valley": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/excuse",
+        "stream": true
+      },
+      {
+        "name": "music/game/nether/intro",
+        "stream": true
+      },
+      {
+        "name": "music/game/nether/ki",
+        "stream": true
+      },
+      {
+        "name": "music/game/nether/quietus",
+        "volume": 0.5,
+        "stream": true,
+        "weight": 5
+      },
+      {
+        "name": "music/game/nether/eulogy",
+        "volume": 0.4,
+        "stream": true,
+        "weight": 5
+      },
+      {
+        "name": "music/game/nether/gan",
+        "volume": 0.3,
+        "stream": true
+      },
+      {
+        "name": "music/nokk",
+        "stream": true
+      },
+      {
+        "name": "music/red_fortress",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.warped_forest": {
+    "sounds": [
+      {
+        "name": "music/game/nether/skewed_blues",
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "music/game/nether/ams",
+        "stream": true,
+        "volume": 0.8,
+        "weight": 4
+      }
+	]
+  },
+  "music.overworld.badlands": {
+    "sounds": [
+      {
+        "name": "music/game/overworld/brave",
+        "stream": true
+      },
+      {
+        "name": "music/game/two_note_dance",
+        "stream": true
+      },
+      {
+        "name": "music/game/wind",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.bamboo_jungle": {
+    "sounds": [
+      {
+        "name": "music/game/chris",
+        "stream": true
+      },
+	    {
+        "name": "music/game/a_familiar_room",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/trees",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/independent_accident",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "music/game/farvel_memory",
+        "stream": true
+      },
+      {
+        "name": "music/game/guenzburg",
+        "stream": true
+      },
+      {
+        "name": "music/game/scrat",
+        "stream": true
+      },
+      {
+        "name": "music/game/waterfall_novela",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.cherry_grove": {
+    "sounds": [
+      {
+        "name": "music/game/chris",
+        "stream": true
+      },
+	    {
+        "name": "music/game/a_familiar_room",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/trees",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/independent_accident",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "music/game/farvel_memory",
+        "stream": true
+      },
+      {
+        "name": "music/game/bumpy",
+        "stream": true
+      },
+      {
+        "name": "music/game/scrat",
+        "stream": true
+      },
+      {
+        "name": "music/game/floatsam",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.desert": {
+    "sounds": [
+      {
+        "name": "music/game/overworld/brave",
+        "stream": true
+      },
+      {
+        "name": "music/game/two_note_dance",
+        "stream": true
+      },
+      {
+        "name": "music/game/wind",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.dripstone_caves": {
+    "sounds": [
+      {
+        "name": "music/game/independent_accident",
+        "stream": true,
+        "volume": 0.5
+      }
+    ]
+  },
+  "music.overworld.flower_forest": {
+    "sounds": [
+      {
+        "name": "music/game/chris",
+        "stream": true
+      },
+	    {
+        "name": "music/game/a_familiar_room",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/trees",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/independent_accident",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "music/game/farvel_memory",
+        "stream": true
+      },
+      {
+        "name": "music/game/bumpy",
+        "stream": true
+      },
+      {
+        "name": "music/game/scrat",
+        "stream": true
+      },
+      {
+        "name": "music/game/floatsam",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.forest": {
+    "sounds": [
+      {
+        "name": "music/game/chris",
+        "stream": true
+      },
+	    {
+        "name": "music/game/a_familiar_room",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/trees",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/independent_accident",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "music/game/farvel_memory",
+        "stream": true
+      },
+      {
+        "name": "music/game/bumpy",
+        "stream": true
+      },
+      {
+        "name": "music/game/scrat",
+        "stream": true
+      },
+      {
+        "name": "music/game/floatsam",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.frozen_peaks": {
+    "sounds": [
+      {
+        "name": "music/game/flake",
+        "stream": true,
+        "volume": 0.5,
+		    "weight": 3
+      },
+      {
+        "name": "music/game/kyoto",
+        "stream": true,
+        "volume": 0.5,
+		    "weight": 3
+      },
+      {
+        "name": "music/game/dalarna",
+        "stream": true,
+		    "weight": 2
+      },
+      {
+        "name": "music/game/buildup_errors",
+        "stream": true,
+        "volume": 0.5,
+		    "weight": 2
+      },
+      {
+        "name": "music/game/stilbruch",
+        "stream": true,
+		    "weight": 2
+      },
+      {
+        "name": "music/game/overworld/hello",
+        "volume": 0.3,
+        "stream": true
+      },
+      {
+        "name": "music/game/axiom",
+        "stream": true
+      },
+      {
+        "name": "music/game/gom",
+        "stream": true
+      },
+      {
+        "name": "music/game/lock",
+        "stream": true
+      },
+      {
+        "name": "music/game/ny",
+        "stream": true
+      },
+      {
+        "name": "music/game/wind",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.grove": {
+    "sounds": [
+      {
+        "name": "music/game/halland",
+        "stream": true
+      },
+      {
+        "name": "music/game/axiom",
+        "stream": true
+      },
+      {
+        "name": "music/game/ny",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jagged_peaks": {
+    "sounds": [
+      {
+        "name": "music/game/flake",
+        "stream": true,
+        "volume": 0.5,
+		    "weight": 3
+      },
+      {
+        "name": "music/game/kyoto",
+        "stream": true,
+        "volume": 0.5,
+		    "weight": 3
+      },
+      {
+        "name": "music/game/dalarna",
+        "stream": true,
+		    "weight": 2
+      },
+      {
+        "name": "music/game/buildup_errors",
+        "stream": true,
+        "volume": 0.5,
+		    "weight": 2
+      },
+      {
+        "name": "music/game/stilbruch",
+        "stream": true,
+		    "weight": 2
+      },
+      {
+        "name": "music/game/overworld/hello",
+        "volume": 0.3,
+        "stream": true
+      },
+      {
+        "name": "music/game/axiom",
+        "stream": true
+      },
+      {
+        "name": "music/game/gom",
+        "stream": true
+      },
+      {
+        "name": "music/game/lock",
+        "stream": true
+      },
+      {
+        "name": "music/game/ny",
+        "stream": true
+      },
+      {
+        "name": "music/game/wind",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jungle": {
+    "sounds": [
+      {
+        "name": "music/game/chris",
+        "stream": true
+      },
+	    {
+        "name": "music/game/a_familiar_room",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/trees",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/independent_accident",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "music/game/farvel_memory",
+        "stream": true
+      },
+      {
+        "name": "music/game/guenzburg",
+        "stream": true
+      },
+      {
+        "name": "music/game/scrat",
+        "stream": true
+      },
+      {
+        "name": "music/game/waterfall_novela",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.lush_caves": {
+    "sounds": [
+      {
+        "name": "music/game/chris",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "music/game/halland",
+        "stream": true,
+		    "weight": 2
+      },
+      {
+        "name": "music/game/dalarna",
+        "stream": true,
+		    "weight": 2
+      },
+	    {
+        "name": "music/game/water/axolotl",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 3
+      },
+      {
+        "name": "music/game/water/dragon_fish",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "music/game/imaginary_interlude",
+        "stream": true,
+        "volume": 0.6,
+        "weight": 3
+      },
+      {
+        "name": "music/game/farvel_memory",
+        "stream": true
+      },
+      {
+        "name": "music/game/guenzburg",
+        "stream": true
+      },
+      {
+        "name": "music/game/scrat",
+        "stream": true
+      },
+      {
+        "name": "music/game/waterfall_novela",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.old_growth_taiga": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/equinoxe",
+        "stream": true,
+		    "weight": 2
+      },
+      {
+        "name": "music/game/halland",
+        "stream": true,
+		    "weight": 3
+      },
+      {
+        "name": "music/game/dalarna",
+        "stream": true,
+		    "weight": 3
+      },
+      {
+        "name": "music/game/axiom",
+        "stream": true
+      },
+      {
+        "name": "music/game/floatsam",
+        "stream": true
+      },
+      {
+        "name": "music/game/lock",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.snowy_slopes": {
+    "sounds": [
+      {
+        "name": "music/game/flake",
+        "stream": true,
+        "volume": 0.5,
+		    "weight": 3
+      },
+      {
+        "name": "music/game/kyoto",
+        "stream": true,
+        "volume": 0.5,
+		    "weight": 3
+      },
+      {
+        "name": "music/game/echo_in_the_wind",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "music/game/gom",
+        "stream": true
+      },
+      {
+        "name": "music/game/wind",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.sparse_jungle": {
+    "sounds": [
+      {
+        "name": "music/game/chris",
+        "stream": true
+      },
+	    {
+        "name": "music/game/a_familiar_room",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/trees",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/independent_accident",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "music/game/farvel_memory",
+        "stream": true
+      },
+      {
+        "name": "music/game/guenzburg",
+        "stream": true
+      },
+      {
+        "name": "music/game/scrat",
+        "stream": true
+      },
+      {
+        "name": "music/game/waterfall_novela",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.stony_peaks": {
+    "sounds": [
+	    {
+        "name": "music/game/equinoxe",
+        "stream": true,
+		    "weight": 3
+      },
+      {
+        "name": "music/game/door",
+        "stream": true,
+		    "weight": 3
+      },
+      {
+        "name": "music/game/kronos",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "music/game/buildup_errors",
+        "stream": true,
+        "volume": 0.5,
+		    "weight": 2
+      },
+      {
+        "name": "music/game/stilbruch",
+        "stream": true,
+		    "weight": 2
+      },
+      {
+        "name": "music/game/overworld/hello",
+        "volume": 0.3,
+        "stream": true
+      },
+      {
+        "name": "music/game/axiom",
+        "stream": true
+      },
+      {
+        "name": "music/game/gom",
+        "stream": true
+      },
+      {
+        "name": "music/game/lock",
+        "stream": true
+      },
+      {
+        "name": "music/game/ny",
+        "stream": true
+      },
+      {
+        "name": "music/game/wind",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.swamp": {
+    "sounds": [
+      {
+        "name": "music/game/bumpy",
+        "stream": true
+      },
+      {
+        "name": "music/game/floatsam",
+        "stream": true
+      },
+      {
+        "name": "music/game/waterfall_novela",
+        "stream": true
+      }
+    ]
+  },
+  "music.under_water": {
+    "sounds": [
+      {
+        "name": "music/game/imaginary_interlude",
+        "stream": true,
+        "volume": 0.6
+      }
+    ]
+  },
+  "block.grass.break": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/moss/break1",
+        "volume": 0.95
+      },
+      {
+        "name": "block/moss/break2",
+        "volume": 0.93
+      },
+      {
+        "name": "block/moss/break3",
+        "volume": 0.93
+      },
+      {
+        "name": "block/moss/break4",
+        "volume": 0.93
+      },
+      {
+        "name": "block/moss/break5",
+        "volume": 0.93
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.grass.fall": {
+    "replace": true,
+    "sounds": [
+      "block/moss/step1",
+      "block/moss/step2",
+      "block/moss/step3",
+      "block/moss/step4",
+      "block/moss/step5",
+      "block/moss/step6"
+    ]
+  },
+  "block.grass.hit": {
+    "replace": true,
+    "sounds": [
+      "block/moss/step1",
+      "block/moss/step2",
+      "block/moss/step3",
+      "block/moss/step4",
+      "block/moss/step5",
+      "block/moss/step6"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.grass.place": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/moss/break1",
+        "volume": 0.93
+      },
+      {
+        "name": "block/moss/break2",
+        "volume": 0.93
+      },
+      {
+        "name": "block/moss/break3",
+        "volume": 0.93
+      },
+      {
+        "name": "block/moss/break4",
+        "volume": 0.93
+      },
+      {
+        "name": "block/moss/break5",
+        "volume": 0.93
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.grass.step": {
+    "replace": true,
+    "sounds": [
+      "block/moss/step1",
+      "block/moss/step2",
+      "block/moss/step3",
+      "block/moss/step4",
+      "block/moss/step5",
+      "block/moss/step6"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sage Brush",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LUKC9brq",
+      "slug": "sage-brush",
+      "versionId": "qNmtndAZ",
+      "versionNumber": "2.2.2",
+      "filename": "sage_brush-1.21.1-2.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LUKC9brq/versions/qNmtndAZ/sage_brush-1.21.1-2.2.2.jar",
+      "sha1": "cf5b370cde08dbff2a81cafad707d627521da99a",
+      "sha512": "b25664fcfc21195fe5b22651e020bf3aa4132e1038efbce915c2bdfa340c3f4618a6f251bc9f1a82ab22d2c622dca52b7a90c9440fa6cb22040866edeb9fa744",
+      "fileSize": 390718
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

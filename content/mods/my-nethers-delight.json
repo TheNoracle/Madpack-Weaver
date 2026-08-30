@@ -1,0 +1,23 @@
+{
+  "name": "My Nether's Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "O53VhQoZ",
+      "slug": "my-nethers-delight",
+      "versionId": "OdH19ieD",
+      "versionNumber": "1.10.4",
+      "filename": "MyNethersDelight-1.21.1-1.10.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/O53VhQoZ/versions/OdH19ieD/MyNethersDelight-1.21.1-1.10.4.jar",
+      "sha1": "6f2803d6a84d296e07382dd2f6c13c3b4fd57cbd",
+      "sha512": "97b3244486430bce3bc6851bf700a9643cd018fdb48961210fecce3a6823ad2a4a25e4943763c0a27f68607cc33c7ce6b0b913cacb12dd1a28850ac5508cc57c",
+      "fileSize": 904388
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "MacOS Input Fixes (Neoforged)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ac3bcWXA",
+      "slug": "mac-input-fixes-neoforged",
+      "versionId": "l5jRTw9P",
+      "versionNumber": "26.04.27",
+      "filename": "macos_input_fixes-26.04.27.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ac3bcWXA/versions/l5jRTw9P/macos_input_fixes-26.04.27.jar",
+      "sha1": "0f8acdfaa588b1c484e0d13f9f2b6bc9ae689cf3",
+      "sha512": "6fd041f80cd91b899521dbb35338363e8ec0d8895e562542cee1c9aadca8d0c1ba5c656501a6145316f912286eab48a025ccf5674c8957d5af894bb576f5dd94",
+      "fileSize": 118970
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

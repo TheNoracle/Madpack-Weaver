@@ -1,0 +1,23 @@
+{
+  "name": "Etcetera",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "TaRVOwJr",
+      "slug": "etcetera",
+      "versionId": "EsBISgeL",
+      "versionNumber": "2.2.7-1.21.1-neoforge",
+      "filename": "etcetera-neoforge-1.21.1-2.2.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TaRVOwJr/versions/EsBISgeL/etcetera-neoforge-1.21.1-2.2.7.jar",
+      "sha1": "e3e2d8c770e3f7c43f9483a95359aac91e53ad15",
+      "sha512": "ce42df3bed033980c6c0718b5a077b676ca48c9a0a44cd2207eef2170ec5b08ca6fa268bd2fde712e9a9373b92f5b48e79d025b9c6ff1e0a745c5a488660cbb7",
+      "fileSize": 7117814
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

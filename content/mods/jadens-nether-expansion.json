@@ -1,0 +1,23 @@
+{
+  "name": "Jaden's Nether Expansion",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "v3UlehfS",
+      "slug": "jadens-nether-expansion",
+      "versionId": "NactTrv2",
+      "versionNumber": "2.4.1",
+      "filename": "Jadens-Nether-Expansion-2.4.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/v3UlehfS/versions/NactTrv2/Jadens-Nether-Expansion-2.4.1.jar",
+      "sha1": "ccbf6bce83cb9c73c3160a5395fb898132205117",
+      "sha512": "61a88089177a957999c244decd07683559f1d452552c4fc4fd61cafb721bb85c4752558d57777b2cb0e82719b079178c3c6bd67c509b870c7bb279dce9dfb675",
+      "fileSize": 21052417
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

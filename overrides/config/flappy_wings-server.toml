@@ -1,0 +1,20 @@
+#How many double jumps can be performed after leaving the ground, -1 for infinite
+# Default: 1
+# Range: -1 ~ 999
+double_jump_count = 2
+#How many seconds of cooldown to have between wing flaps
+# Default: 1.0
+# Range: 0.0 ~ 999.0
+cooldown_seconds = 1.0
+#How much vertical speed to apply during a double jump
+# Default: 0.95
+# Range: 0.0 ~ 2.0
+vertical_boost = 0.95
+#How much horizontal boost to apply during a double jump
+# Default: 0.5
+# Range: 0.0 ~ 2.0
+horizontal_boost = 0.5
+#Enable smooth dynamic boosts depending on player momentum before the boost
+enable_dynamic_boosts = true
+#List of dimensions to disable Double Jump behaviour in, to have default flying
+flying_dimensions = []

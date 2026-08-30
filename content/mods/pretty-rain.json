@@ -1,0 +1,23 @@
+{
+  "name": "Pretty Rain",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "IhZuHxkl",
+      "slug": "pretty-rain",
+      "versionId": "CYizuwV6",
+      "versionNumber": "1.1.4",
+      "filename": "Pretty Rain-1.21.1-NeoForge-1.1.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/IhZuHxkl/versions/CYizuwV6/Pretty%20Rain-1.21.1-NeoForge-1.1.4.jar",
+      "sha1": "6b2691fab1a40995095814b019cb55cb0f7be610",
+      "sha512": "686d25d07f6ada4454d37a535d54a6f28efc252142d93e29b699ad7eb54f0499a7b8ba0fb7ee9e809445acd55abb937c646a24551c235b0689a9a4c131428140",
+      "fileSize": 589641
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

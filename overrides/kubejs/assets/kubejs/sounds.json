@@ -1,0 +1,243 @@
+{
+    "music_disc.dog": {
+        "sounds": [
+            {
+                "name": "kubejs:dog",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.shimmer": {
+        "sounds": [
+            {
+                "name": "kubejs:shimmer",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.frontier": {
+        "sounds": [
+            {
+                "name": "kubejs:frontier",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.origin": {
+        "sounds": [
+            {
+                "name": "kubejs:origin",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.halland_dalarna": {
+        "sounds": [
+            {
+                "name": "kubejs:halland_dalarna",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.twelve": {
+        "sounds": [
+            {
+                "name": "kubejs:twelve",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.capybara": {
+        "sounds": [
+            {
+                "name": "kubejs:capybara",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.fractal": {
+        "sounds": [
+            {
+                "name": "kubejs:fractal",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.fragment": {
+        "sounds": [
+            {
+                "name": "kubejs:fragment",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.lava_chicken": {
+        "sounds": [
+            {
+                "name": "kubejs:lava_chicken",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.star": {
+        "sounds": [
+            {
+                "name": "kubejs:star",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.sun": {
+        "sounds": [
+            {
+                "name": "kubejs:sun",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.warp": {
+        "sounds": [
+            {
+                "name": "kubejs:warp",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.redstone_baby": {
+        "sounds": [
+            {
+                "name": "kubejs:redstone_baby",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.candlelit": {
+        "sounds": [
+            {
+                "name": "kubejs:candlelit",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.creakstep": {
+        "sounds": [
+            {
+                "name": "kubejs:creakstep",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.frog_march": {
+        "sounds": [
+            {
+                "name": "kubejs:frog_march",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.bluupy": {
+        "sounds": [
+            {
+                "name": "kubejs:bluupy",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.kena": {
+        "sounds": [
+            {
+                "name": "kubejs:kena",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.loofah": {
+        "sounds": [
+            {
+                "name": "kubejs:loofah",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.melanc": {
+        "sounds": [
+            {
+                "name": "kubejs:melanc",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.harvest": {
+        "sounds": [
+            {
+                "name": "kubejs:harvest",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.fly": {
+        "sounds": [
+            {
+                "name": "kubejs:fly",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.wuop": {
+        "sounds": [
+            {
+                "name": "kubejs:wuop",
+                "stream": true
+            }
+        ]
+    },
+	"advancement.regular": {
+        "sounds": [
+            "kubejs:advancement_sounds/advancement"
+        ]
+    },
+	"advancement.goal": {
+        "sounds": [
+            "kubejs:advancement_sounds/goal_advancement"
+        ]
+    },
+	"advancement.challenge": {
+        "sounds": [
+            "kubejs:advancement_sounds/challenge_advancement"
+        ]
+    },
+	"advancement.nether": {
+        "sounds": [
+            "kubejs:advancement_sounds/nether_advancement"
+        ]
+    },
+	"advancement.mystery": {
+        "sounds": [
+            "kubejs:advancement_sounds/mysterious_advancement"
+        ]
+    },
+	"advancement.joke": {
+        "sounds": [
+            "kubejs:advancement_sounds/joke_advancement"
+        ]
+    },
+	"advancement.pizza": {
+        "sounds": [
+            "kubejs:advancement_sounds/pizza_advancement"
+        ]
+    },
+	"advancement.happyhour": {
+        "sounds": [
+            "kubejs:advancement_sounds/happyhour_advancement"
+        ]
+    },
+	"spawner.spawn": {
+        "sounds": [
+            "kubejs:spawning/spawn1",
+			"kubejs:spawning/spawn2",
+			"kubejs:spawning/spawn3",
+			"kubejs:spawning/spawn4"
+        ],
+        "subtitle": "Mob spawns from spawner"
+    }
+}

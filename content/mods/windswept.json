@@ -1,0 +1,23 @@
+{
+  "name": "Windswept",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "l0h5MtkA",
+      "slug": "windswept",
+      "versionId": "L5Fi5hKx",
+      "versionNumber": "4.0.2",
+      "filename": "windswept-1.21.1-4.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/l0h5MtkA/versions/L5Fi5hKx/windswept-1.21.1-4.0.2.jar",
+      "sha1": "fc985299add1c38a8c616c331fead746b928975e",
+      "sha512": "fd41ea453295fa159f769c736d855de6f6330e1d04a0a20c51123e1e0b2edb3f4e1985a159d7292e16960cd298a262a55ee8c87d0604b028479f13fe1bbbe5c8",
+      "fileSize": 10381094
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

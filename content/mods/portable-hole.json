@@ -1,0 +1,23 @@
+{
+  "name": "Portable Hole",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jckrUoUe",
+      "slug": "portable-hole",
+      "versionId": "V6PVdKh9",
+      "versionNumber": "v21.1.0-1.21.1-NeoForge",
+      "filename": "PortableHole-v21.1.0-1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jckrUoUe/versions/V6PVdKh9/PortableHole-v21.1.0-1.21.1-NeoForge.jar",
+      "sha1": "dd651e3c3b15496112ba2bcc3cdce7bf89d3ed85",
+      "sha512": "809e5780fccb73c533b6e9bf0a89b893b3a522b988f82347bbc45179f975f7ccd4cd6eb30bd97e29cd4fa557560ece68ad4e8006032c0f1f709ea329132d0266",
+      "fileSize": 100833
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
